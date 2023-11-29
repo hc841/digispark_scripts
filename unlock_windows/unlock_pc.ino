@@ -1,8 +1,6 @@
 #include "DigiKeyboard.h"
 
 void setup() {
-  DigiKeyboard.sendKeyStroke(KEY_ENTER);
-  delay(500);
   DigiKeyboard.print("sua_senha");
   delay(500);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
