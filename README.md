@@ -1,5 +1,5 @@
 # digispark_scripts
-Um lote de scripts básicos para o digispark, feito para serem adaptados a sua necessidades.
+Um lote de scripts básicos para o digispark, feito para serem adaptados conforme a suas necessidades.
 
 ## Como usar?
 * Baixe o script que mais se adapta a sua necessidade
