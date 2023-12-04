@@ -8,7 +8,7 @@ Um lote de scripts básicos para o digispark, feito para serem adaptados conform
 
 ## Contribua para o projeto
 
-Se voçe gostou do meu projeto, considere fazer uma doação.
+Se você gostou do meu projeto, considere fazer humilde uma doação.
 
 - **Pix: <henriquemattos841@gmail.com>**
 - **Bitcoin: 0x431376b69495c4C4E4ffea7BcD31799e74D50284**
