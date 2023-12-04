@@ -4,7 +4,7 @@ Um lote de scripts básicos para o digispark, feito para serem adaptados conform
 ## Como usar?
 * Baixe o script que mais se adapta a sua necessidade
 * Edite-o.
-* Faça o upload para a placa
+* Faça o upload para o Digispark
 
 ## Contribua para o projeto
 
